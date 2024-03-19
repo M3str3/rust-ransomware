@@ -1,4 +1,4 @@
-# Educational Ransomware in Rust
+# Ransomware in Rust
 
 ## Disclaimer
 
